@@ -5,3 +5,5 @@ It doesn't change the file location and it allows for you to collect your though
 a bunch of files or by letting you see the diff between staging and working directories
 4. Branches help keep history clean by adding a new branch whenever the code differs, but you want to keep both
 5. Diagrams help visualize branch structures by showing the connectivity between commits
+6. The result of merging two branches is one branch. We added the coins branch to the master, so the branch continues
+along master in the diagram
