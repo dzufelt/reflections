@@ -3,3 +3,4 @@
 It doesn't change the file location and it allows for you to collect your thoughts (files) before committing to the repository
 3. The staging area can be used to ensure one logical change per commit by adding only one file if you've changed
 a bunch of files or by letting you see the diff between staging and working directories
+4. Branches help keep history clean by adding a new branch whenever the code differs, but you want to keep both
