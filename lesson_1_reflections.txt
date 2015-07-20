@@ -1,0 +1,9 @@
+1. You can focus on only what changed and don't have to sift through things that are the same.
+2. You can see what problems you've already run into and how you solved them.
+3. Pros of manual commit include logical breaks in versions and adjusting the version control based on your style.
+Cons of manual commit include forgetting to commit when there's been a logical break and having to take the time to make the commit.
+4. It depends on the use case. Git is meant for tracking changes in projects with multiple, interconnected files.
+5. Use the command git log to see all of the commits in the repository 
+Use the command git diff with the first commit and then the second to see the changes between the two 
+6. You're not afraid to take a risk if you know you can just revert to a previous version
+7. I'd like to try using git to track versions of this note-taking system!
