@@ -7,3 +7,6 @@ a bunch of files or by letting you see the diff between staging and working dire
 5. Diagrams help visualize branch structures by showing the connectivity between commits
 6. The result of merging two branches is one branch. We added the coins branch to the master, so the branch continues
 along master in the diagram
+7. Pros of Git's automatic merge include that it's faster than manual commits and for branches of distinct code
+it's not likely to break anything. Pros of manually merging include user control and the ability to know the merge
+makes sense, but a con is missing some changes.
