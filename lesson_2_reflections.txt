@@ -1,3 +1,5 @@
 1. When you initialize a git respository, a new respository is created in that folder as a .git with no commits
 2. The staging area is different from the working directory and respository in that is is a status - 
 It doesn't change the file location and it allows for you to collect your thoughts (files) before committing to the repository
+3. The staging area can be used to ensure one logical change per commit by adding only one file if you've changed
+a bunch of files or by letting you see the diff between staging and working directories
