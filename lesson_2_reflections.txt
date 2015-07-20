@@ -1,0 +1,3 @@
+1. When you initialize a git respository, a new respository is created in that folder as a .git with no commits
+2. The staging area is different from the working directory and respository in that is is a status - 
+It doesn't change the file location and it allows for you to collect your thoughts (files) before committing to the repository
