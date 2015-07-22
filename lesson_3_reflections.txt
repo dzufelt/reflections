@@ -1,2 +1,7 @@
 1. When you want to share your work or even just use different computers yourself, it's helpful to use a remote repository
 2. Manually pulling changes from GitHub is a good idea so that you can be sure you approve of any changes, since this is a public repository
+3. A clone is an exact copy of a repository. The original and clone have no ongoing connection, unless you set up a remote.
+A branch is a line of commits in a repository. The Master branch is your main branch, but a different branch could 
+be added for trying out a new feature or taking a break from trying to fix a bug
+A fork is a clone that only works on GitHub. It is a clone of a repository in your GitHub account that links back to
+the original creator. It exists to give credit to authors and for statistics.
