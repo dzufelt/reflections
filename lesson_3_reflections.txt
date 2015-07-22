@@ -1,1 +1,2 @@
 1. When you want to share your work or even just use different computers yourself, it's helpful to use a remote repository
+2. Manually pulling changes from GitHub is a good idea so that you can be sure you approve of any changes, since this is a public repository
