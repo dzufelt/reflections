@@ -5,3 +5,5 @@ A branch is a line of commits in a repository. The Master branch is your main br
 be added for trying out a new feature or taking a break from trying to fix a bug
 A fork is a clone that only works on GitHub. It is a clone of a repository in your GitHub account that links back to
 the original creator. It exists to give credit to authors and for statistics.
+4. The benefit to storing the last known state of remote branch locally is that you can tell whether the path of the
+remote branch is linear with your commit history or if it is diverging.
