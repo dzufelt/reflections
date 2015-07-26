@@ -9,3 +9,6 @@ the original creator. It exists to give credit to authors and for statistics.
 remote branch is linear with your commit history or if it is diverging.
 5. To collaborate without git or github, you'd need to keep sending files back and forth. It might be easier if one
 or more of you don't know how to use git and github, but it requires a lot more manual documentation and communication
+6. Creating a separate branch is a good idea when trying out a new feature that you're not sure about, 
+particularly when you've been working on the code for a long time. It takes more time and more steps when integrating
+with GitHub, but is easier to trace who change what and when. 
